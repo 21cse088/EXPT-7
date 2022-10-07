@@ -14,7 +14,7 @@ public class stringhandling {
          String[] str ={"java virtual machine","local area network","integrated Development Environment","java Development Kit"};
          
        
-    for(int i=1;i<str.length;i++)
+    for(int i=0;i<str.length;i++)
     {
       
           System.out.println(str[i]);
